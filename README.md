@@ -35,4 +35,16 @@ allt sem tengist vélinni sem að er ekki staðsett innan í tölvunni sjálfri
 Lyklaborðið, Myndavél, Mýs
 
 10. Búðu til tölvu
-250þúsundkr
+.   Thermaltake Urban S31 leikjaturn
+.   Intel Core i5-7500 Quad 3.8GHz Turbo
+.   GIGABYTE Kaby lake Gaming K3 móðurborð
+.   8GB DUAL DDR4 2400MHz hágæða minni
+.   512GB SSD M.2 Plextor M7V diskur
+.   6GB GTX 1060 D5 Gaming leikjaskjákort
+.   7.1 Nichicon hágæða Gamers hljóðstýring
+.   Nýjustu USB 3.1 Type-A tengi og M.2
+.   Windows 10 64-bit, hlaðið nýjungum!
+Verð á kassa = 229.990kr AFG = 20.010kr 
+ Vörulýsing vinnsluminni
+ADATA DDR4 PC4-24000 3000MHz XPG Dazzle LED Dual Channel (1x16384MB) 16-16-16 @ 1.35V
+Verð á vinnsluminni 19.990kr AFG = 20kr
